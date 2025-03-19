@@ -9,7 +9,7 @@ const About = () => {
       </div>
 
       <div className="flex items-center p-10">
-        <AboutCard />
+        {/* <AboutCard /> */}
       </div>
     </div>
   );
